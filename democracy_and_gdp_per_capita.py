@@ -94,7 +94,6 @@ Greenland
 Guatemala
 Guam
 Guyana
-High income
 Hong Kong, China
 Honduras
 Heavily indebted poor countries (HIPC)
@@ -135,11 +134,8 @@ Libya
 St. Lucia
 Latin America & Caribbean
 Least developed countries: UN classification
-Low income
 Liechtenstein
 Sri Lanka
-Lower middle income
-Low & middle income
 Lesotho
 Late-demographic dividend
 Lithuania
@@ -155,7 +151,6 @@ Maldives
 Middle East & North Africa
 Mexico
 Marshall Islands
-Middle income
 North Macedonia
 Mali
 Malta
@@ -248,7 +243,6 @@ Tuvalu
 Tanzania
 Uganda
 Ukraine
-Upper middle income
 Uruguay
 United States
 Uzbekistan
